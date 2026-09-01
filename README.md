@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <img
   src="./assets/profile-header.svg"
   width="100%"
