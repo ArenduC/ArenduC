@@ -1,4 +1,4 @@
-
+<div align="center">
 <img
   src="./assets/profile-header.svg"
   width="100%"
@@ -163,4 +163,5 @@ Learning   → Never Stop
 ⭐ If you find something useful in my repositories, consider giving it a star!
 
 <p align="center"> <b>Thanks for visiting my profile! 👋</b> </p>
+</div>
 
