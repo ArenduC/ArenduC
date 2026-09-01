@@ -1,3 +1,9 @@
+
+<img
+  src="./assets/profile-header.svg"
+  width="100%"
+  alt="Arendu Chanda"
+>
 Hi, I'm Arendu Chanda
 ------------------------------------------------------------------------
 Senior Flutter Developer | Frontend Engineer | Product Builder
