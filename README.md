@@ -4,9 +4,7 @@
   width="100%"
   alt="Arendu Chanda"
 >
-Hi, I'm Arendu Chanda
-------------------------------------------------------------------------
-Senior Flutter Developer | Frontend Engineer | Product Builder
+
 
 I’m a Senior Developer / Team Lead with 4+ years of experience building mobile and web applications.
 
