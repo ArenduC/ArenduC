@@ -200,7 +200,7 @@
     <!-- Small intro -->
 
     <text
-      x="100"
+      x="0"
       y="175"
       fill="white"
       font-family="Arial, Helvetica, sans-serif"
@@ -214,7 +214,7 @@
     <!-- Name -->
 
     <text
-      x="100"
+      x="0"
       y="220"
       fill="white"
       font-family="Arial, Helvetica, sans-serif"
@@ -228,7 +228,7 @@
     <!-- Role -->
 
     <text
-      x="100"
+      x="0"
       y="258"
       fill="white"
       font-family="Arial, Helvetica, sans-serif"
@@ -242,7 +242,7 @@
     <!-- Description -->
 
     <text
-      x="100"
+      x="0"
       y="300"
       fill="white"
       font-family="Arial, Helvetica, sans-serif"
